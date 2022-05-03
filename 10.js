@@ -1,0 +1,1 @@
+var allvalues; console.log(allvalues);
